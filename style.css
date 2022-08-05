@@ -23,6 +23,8 @@ ul {
     list-style:none;
 }
 h2 {
+    border: 2px red solid;
+    border-radius: 4px;
     text-align: center;
     font-style: italic;
     margin-bottom: 2%;
