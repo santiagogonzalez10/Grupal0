@@ -4,3 +4,10 @@ h1 {
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: crimson;
 }
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #513A1E;
+    text-decoration: underline wavy black;
+    background: #EDA739;
+}
